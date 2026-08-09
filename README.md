@@ -14,3 +14,7 @@ Laboratorio personal de aprendizaje y experimentación en desarrollo de software
 ## Estado
 
 En construcción.
+
+## Primer proyecto
+
+Esta sección fue desarrollada en la branch `feature/first-project`.
