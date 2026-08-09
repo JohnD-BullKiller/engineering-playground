@@ -18,3 +18,7 @@ En construcción.
 ## Primer proyecto
 
 Esta sección fue desarrollada en la branch `feature/first-project`.
+
+## Git Workflow
+
+Este proyecto utiliza Git Flow basado en ramas de funcionalidad y Pull Requests.
