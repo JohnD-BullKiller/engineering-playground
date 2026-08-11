@@ -25,7 +25,7 @@ Este proyecto utiliza Git Flow basado en ramas de funcionalidad y Pull Requests.
 
 ## Branching
 
-Este proyecto utiliza ramas para aislar cambios antes de integrarlos en `main`.
+Este proyecto utiliza ramas para aislar cambios antes de integrarlos en `mian`.
 
 ## Squash Demo
 
