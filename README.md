@@ -33,6 +33,12 @@ Commit inicial de la demostración de squash.
 
 Segundo cambio de la demostración.
 
+<<<<<<< HEAD
 ## Main Update
 
 Cambio realizado en main mientras la feature estaba en desarrollo.
+=======
+## Rebase Demo
+
+Primer commit de la demostración de rebase.
+>>>>>>> aefb0f3 (docs: add rebase demo)
