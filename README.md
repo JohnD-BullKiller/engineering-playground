@@ -32,3 +32,7 @@ Este proyecto utiliza ramas para aislar cambios antes de integrarlos en `main`.
 Commit inicial de la demostración de squash.
 
 Segundo cambio de la demostración.
+
+## Main Update
+
+Cambio realizado en main mientras la feature estaba en desarrollo.
